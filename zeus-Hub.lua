@@ -551,8 +551,8 @@ local NotiFrame = Instance.new("Frame")
 		end
 		)
 	end 
-	DiscordLib:Notification("Thông Báo" , "Nhận Cày Thuê Bán Acc v4 Ae Nào Cần IB" , 6 ,11816162894 )
-	DiscordLib:Notification("Thông Báo" , "Link Facebook Ở Phần Setting" , 6 ,11816162894 )
+	DiscordLib:Notification("Thông Báo" , "anh iu bích ngọc" , 6 ,16152222934 )
+	DiscordLib:Notification("Thông Báo" , "Link Facebook Ở Phần Setting" , 6 ,16152222934 )
  local UserInputService = game:GetService("UserInputService")
  local TweenService = game:GetService("TweenService")
  
